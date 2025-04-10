@@ -1,5 +1,8 @@
 # Atlantic-Superstore-Sales-Analysis
 
+### Tableau Public Account Link 
+https://public.tableau.com/app/profile/yash.thorat3350/viz/Atlantic_Superstore_Analysis/Story1
+
 # Overview
 This Tableau project provides a detailed analysis of sales, profit, and returns for the Atlantic Superstore, focusing on data from 2017 and 2018. It integrates multiple data sources, applies necessary transformations, and visualizes key business metrics. The project helps identify trends, track sales performance against goals, analyze product categories, and evaluate the impact of returns on profitability. Additionally, a specific focus is placed on 2018 sales performance through a filtered dashboard. The insights derived from this analysis can support better decision-making and business strategy optimization.
 
