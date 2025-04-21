@@ -50,13 +50,18 @@ Key Metrics (KPIs) – Provides a high-level overview of total sales, profit, an
 Interactive Filters – Allows users to explore data dynamically by region, category, and time period:
 
 # Analysis by Stories (Story telling)
+# Story 1
 ![Dashboard 1(ny)](https://github.com/user-attachments/assets/cc0cbede-ae11-4681-bbf2-675b7158a7f7)
 
 ### This dashboard shows Atlantic Superstore's 2018 NYC sales with strong overall YTD figures, but the East region is significantly underperforming its sales goal.  A potential data duplication error needs clarification.  The map visualization lacks detail, and further investigation into the East's shortfall is crucial.
 
+# Stort 2
+
 ![Dashboard 1 (2)](https://github.com/user-attachments/assets/10bb4306-6733-4448-9c94-19eb991d509c)
 
 ### This Atlantic Superstore dashboard reveals strong overall 2018 sales, but the West region is significantly underperforming its sales goal, requiring immediate attention.  The city map shows sales distribution, and the monthly trend chart indicates a peak in September.
+
+# Story 3
 
 ![Dashboard 1 (3)](https://github.com/user-attachments/assets/5ee6767e-48b6-4c00-8f06-90057e48dff5)
 
